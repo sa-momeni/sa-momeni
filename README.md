@@ -9,6 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-momeni&label=Profile%20views&color=1c39bb&style=flat" alt="sa-momeni" /> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-momeni&show_icons=true&theme=dark&locale=en&layout=full" alt="sa-momeni" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-momeni&show_icons=true&theme=dark&locale=en&layout=compact" alt="sa-momeni" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sa-momeni&show_icons=true&theme=dark&locale=en" alt="sa-momeni" /></p>
